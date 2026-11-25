@@ -1,6 +1,6 @@
 # Here Comes the Horde - Внутриигровое мод-меню и таблица Cheat Engine (.CT)
 
-Русское мод-меню (`v1.0`) и таблица Cheat Engine (`v1.1`) для тактической стратегии **Here Comes the Horde** (Steam AppID `5066010`, версия `1.2.0`, сборка `26864614`; подходит и для Demo `5322720`). Достижения в Steam продолжают открываться.
+Русское мод-меню (`v1.0`) и таблица Cheat Engine (`v1.1`) для тактической стратегии **Here Comes the Horde** (Steam AppID `5066010`, версия `1.2.0`, сборка `26864614`; подходит и для Demo `5322720`).
 
 ## Скачать
 - **[Страница релиза и обновления на Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde)**
