@@ -55,7 +55,7 @@
 - **[v1.1](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.1.0)** - исправлена таблица Cheat Engine (`HereComesTheHorde_RU_v1.1.CT`): поправлено смещение счётчика Душ в сохранении полной версии 1.2.0 и демо (устранена причина сброса прогресса), переработан захват указателей боя и кампании, исправлены неуязвимость стены и мгновенная победа, в `README_RU.txt` убран совет выделять все строки через `Ctrl+A`.
 - **[v1.0](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.0.0)** - первый публичный выпуск: установщик и оверлей для Windows, нативный скрипт для Steam Deck / Linux, отдельная таблица Cheat Engine (`HereComesTheHorde-CheatTable-RU-v1.0.zip`), чистые INI-пресеты `CheatMod` и возврат оригинала в один клик.
 
-[Все релизы](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec)
+[Все релизы](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
 
 ## Обратная связь и другие проекты
 Заметили ошибку после нового патча игры - откройте [Issue](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/issues).
