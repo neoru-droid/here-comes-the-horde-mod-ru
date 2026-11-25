@@ -1,12 +1,10 @@
 # Here Comes the Horde - Внутриигровое мод-меню и таблица Cheat Engine (.CT)
 
-Внутриигровое мод-меню, панель настройки баланса и русская таблица Cheat Engine (`.CT`) для одиночной тактической стратегии **Here Comes the Horde** (Steam AppID `5066010`, проверено на версии `1.2.0`, сборка `26864614`; также поддерживается Demo `5322720`).
-
-Перевод текста самой игре не нужен, поэтому наш набор целиком на русском и добавляет два варианта управления балансом: внутриигровое мод-меню (`F1`, `Alt+1..6`, геймпад `L3 + R3`, удаление в один клик) и отдельную таблицу Cheat Engine `HereComesTheHorde_RU_v1.1.CT` на 8 функций без изменения файлов игры. Достижения Steam продолжают открываться.
+Русское мод-меню (`v1.0`) и таблица Cheat Engine (`v1.1`) для тактической стратегии **Here Comes the Horde** (Steam AppID `5066010`, версия `1.2.0`, сборка `26864614`; подходит и для Demo `5322720`). Достижения в Steam продолжают открываться.
 
 ## Скачать
-- **[Boosty - полная страница релиза и обновления](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde)**
-- **[GitHub Releases - мод-меню `HereComesTheHorde-Trainer-RU-v1.0.zip` и таблица `HereComesTheHorde-CheatTable-RU-v1.1.zip`](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.1.0)** · [Как установить](#установка)
+- **[Страница релиза и обновления на Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde)**
+- **[GitHub Releases - `HereComesTheHorde-Trainer-RU-v1.0.zip` и `HereComesTheHorde-CheatTable-RU-v1.1.zip`](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.1.0)** · [Как установить](#установка)
 
 Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
 
@@ -18,17 +16,17 @@
 1. **Windows:** закройте игру, распакуйте архив и запустите `HereComesTheHorde-Trainer-Setup.exe` -> **«Установить мод-меню»**.
 2. **Steam Deck / Linux:** распакуйте все файлы архива в одну папку и выполните `sh install-steamdeck.sh` рядом с `.exe`.
 3. В релизной сборке игра читает `.ini`-файлы баланса при запуске: после переключения настроек в оверлее (`F1` или `L3 + R3`) перезапустите игру.
-4. Кнопка **«Удалить и вернуть оригинал»** в любой момент возвращает исходные файлы игры.
+4. Кнопка **«Удалить и вернуть оригинал»** убирает мод и возвращает настройки игры.
 
 *(Окно Windows SmartScreen: «Подробнее» -> «Выполнить в любом случае».)*
 
 ## Возможности мод-меню (8 настроек)
 
 ### Вкладка «Бой и защита» (при новом сеансе выключены по умолчанию)
-1. `Alt+1` - **Неуязвимая стена замка (`500 000 HP`)** - многократный запас прочности главной стены.
+1. `Alt+1` - **Неуязвимая стена замка (`500 000 HP`)** - огромный запас прочности главной стены.
 2. `Alt+2` - **Быстрый призыв своих войск (в 5 раз чаще)** - ускоряет найм и выход ваших отрядов на линию фронта.
 3. `Alt+3` - **Бесплатная застройка и дешёвые отряды** - снижает цену найма отрядов до `1` золота и рост стоимости построек.
-4. `Alt+4` - **Слабая нежить (в 4 раза меньше врагов)** - уменьшает плотность волн нежити, не затрагивая параметры союзных войск.
+4. `Alt+4` - **Слабая нежить (в 4 раза меньше врагов)** - уменьшает плотность волн нежити, не ослабляя ваши войска.
 5. `Alt+5` - **Быстрые способности и длительность x2** - ускоряет откат и удваивает время действия активных навыков.
 6. `Alt+6` - **Таланты по 1 Душе и открытие ветки** - открывает видимость ветки талантов со старта при цене `1` Душа за уровень.
 
@@ -38,7 +36,7 @@
 
 ## Таблица Cheat Engine (.CT)
 
-Отдельная русская таблица `HereComesTheHorde_RU_v1.1.CT` (`HereComesTheHorde-CheatTable-RU-v1.1.zip`) работает прямо в бою и на карте кампании без перезапуска и без замены файлов игры:
+Отдельная русская таблица `HereComesTheHorde_RU_v1.1.CT` (`HereComesTheHorde-CheatTable-RU-v1.1.zip`) работает прямо в бою и на карте кампании без перезапуска игры:
 
 ![Таблица Cheat Engine для Here Comes the Horde](docs/screenshots/ct_1.png)
 
@@ -53,17 +51,14 @@
 
 ## История обновлений
 - **[v1.1](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.1.0)** - исправлена таблица Cheat Engine (`HereComesTheHorde_RU_v1.1.CT`): поправлено смещение счётчика Душ в сохранении полной версии 1.2.0 и демо (устранена причина сброса прогресса), переработан захват указателей боя и кампании, исправлены неуязвимость стены и мгновенная победа, в `README_RU.txt` убран совет выделять все строки через `Ctrl+A`.
-- **[v1.0](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.0.0)** - первый публичный выпуск: установщик и оверлей для Windows, нативный скрипт для Steam Deck / Linux, отдельная таблица Cheat Engine (`HereComesTheHorde-CheatTable-RU-v1.0.zip`), чистые INI-пресеты баланса и возврат оригинала в один клик.
+- **[v1.0](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.0.0)** - первый выпуск: установщик и оверлей для Windows, скрипт для Steam Deck / Linux, отдельная таблица Cheat Engine (`HereComesTheHorde-CheatTable-RU-v1.0.zip`), и отдельные INI-пресеты баланса.
 
-[Все релизы](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde) · [Каталог с поиском](https://neoru-droid.github.io/)
+## Обратная связь и проекты автора
 
-## Обратная связь и другие проекты
-Заметили ошибку после нового патча игры - откройте [Issue](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/issues).
+Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/issues).
 
-- [Playrooms - Русификатор и издание 2-в-1](https://github.com/neoru-droid/playrooms-ru)
-- [Deleted Wiki: Clean Up the Lost Files](https://github.com/neoru-droid/deleted-wiki-ru)
-- [We March as One](https://github.com/neoru-droid/we-march-as-one-ru)
-- [Zombies Aren't Real](https://github.com/neoru-droid/zombies-arent-real-ru)
-- [Frontier Tale](https://github.com/neoru-droid/frontier-tale-ru)
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde) · [профиль на GitHub](https://github.com/neoru-droid)
 
 Лицензия: [MIT](LICENSE)
+
+Автор: `neoru-droid`
