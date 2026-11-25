@@ -2,7 +2,7 @@
 
 Внутриигровое мод-меню, панель настройки баланса и русская таблица Cheat Engine (`.CT`) для одиночной тактической стратегии **Here Comes the Horde** (Steam AppID `5066010`, проверено на версии `1.2.0`, сборка `26864614`; также поддерживается Demo `5322720`).
 
-В самой игре уже есть официальный русский язык, а наш набор добавляет два варианта управления балансом на выбор: внутриигровое мод-меню (`F1`, `Alt+1..6`, геймпад `L3 + R3`, возврат чистых оригинальных файлов в один клик без перекачивания в Steam) и отдельную таблицу Cheat Engine `HereComesTheHorde_RU_v1.1.CT` на 8 функций без изменения файлов игры. Достижения Steam продолжают открываться как обычно.
+Перевод текста самой игре не нужен, поэтому наш набор целиком на русском и добавляет два варианта управления балансом: внутриигровое мод-меню (`F1`, `Alt+1..6`, геймпад `L3 + R3`, удаление в один клик) и отдельную таблицу Cheat Engine `HereComesTheHorde_RU_v1.1.CT` на 8 функций без изменения файлов игры. Достижения Steam продолжают открываться.
 
 ## Скачать
 - **[Boosty - полная страница релиза и обновления](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde)**
@@ -53,7 +53,7 @@
 
 ## История обновлений
 - **[v1.1](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.1.0)** - исправлена таблица Cheat Engine (`HereComesTheHorde_RU_v1.1.CT`): поправлено смещение счётчика Душ в сохранении полной версии 1.2.0 и демо (устранена причина сброса прогресса), переработан захват указателей боя и кампании, исправлены неуязвимость стены и мгновенная победа, в `README_RU.txt` убран совет выделять все строки через `Ctrl+A`.
-- **[v1.0](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.0.0)** - первый публичный выпуск: установщик и оверлей для Windows, нативный скрипт для Steam Deck / Linux, отдельная таблица Cheat Engine (`HereComesTheHorde-CheatTable-RU-v1.0.zip`), чистые INI-пресеты `CheatMod` и возврат оригинала в один клик.
+- **[v1.0](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.0.0)** - первый публичный выпуск: установщик и оверлей для Windows, нативный скрипт для Steam Deck / Linux, отдельная таблица Cheat Engine (`HereComesTheHorde-CheatTable-RU-v1.0.zip`), чистые INI-пресеты баланса и возврат оригинала в один клик.
 
 [Все релизы](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde) · [Каталог с поиском](https://neoru-droid.github.io/)
 
