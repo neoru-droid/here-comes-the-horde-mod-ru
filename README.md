@@ -57,6 +57,8 @@
 
 Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/issues).
 
+Предложить свою игру в приоритетную очередь (350 ₽) или заказать разбор вне очереди (750 ₽) можно на [странице Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game).
+
 Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde) · [профиль на GitHub](https://github.com/neoru-droid)
 
 Лицензия: [MIT](LICENSE)
