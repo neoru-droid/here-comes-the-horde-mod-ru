@@ -3,9 +3,9 @@
 Стена на 500 000 HP, быстрый призыв отрядов, бесплатная стройка, множители золота и душ, таланты за 1 душу и таблица Cheat Engine `v1.1` (версия `1.2.0`, сборка `26864614`, подходит и для Demo; Windows и Steam Deck).
 
 ## Скачать
-- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde)**
-- **[GitHub Releases (`Trainer-RU-v1.0.zip` и `CheatTable-RU-v1.1.zip`)](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.1.0)** · [Как установить](#установка)
-- **Ранний доступ и заказ своей игры:** новинки на 48 ч раньше от `120 ₽`, своя игра в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **[Скачать мод-меню v1.1 (ZIP)](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/download/v1.1.0/HereComesTheHorde-Trainer-RU-v1.1.zip)** · [Таблица .CT и другие файлы на GitHub Releases](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/tag/v1.1.0) · [Как установить](#установка)
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c)**
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше (`120 ₽/мес на все релизы или разовый пост 150 ₽`), своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![Here Comes the Horde - Мод-меню](docs/screenshots/cover_wide.png)
 
@@ -37,4 +37,4 @@
 
 Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/issues).
 
-[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=here_comes_the_horde) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Telegram](https://t.me/neoru_droid) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
